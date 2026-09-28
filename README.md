@@ -28,7 +28,7 @@ pip install numpy
 ## 使用方法
 
 ```python
-from mlp import MLPClassifier
+from xlbMLP import MLPClassifier
 
 model = MLPClassifier(
     hidden_layers=[128, 64],
